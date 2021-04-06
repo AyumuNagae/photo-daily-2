@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "350785486436",
+    "project_id": "photo-daily-app2",
+    "storage_bucket": "photo-daily-app2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350785486436:android:b3f3feaf4f1b8c91c5a971",
+        "android_client_info": {
+          "package_name": "com.ayumu.photo_daily_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350785486436-u1bc0e60gt2b2puutqh7fs1keemuc4fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwkEXbUxwx4pMbV8AbG_HREZ3y-gAyiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350785486436-u1bc0e60gt2b2puutqh7fs1keemuc4fo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350785486436-abu0lfspufh5gdcvr6bvc1t3htm625ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ayumu.photoDailyApp2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
